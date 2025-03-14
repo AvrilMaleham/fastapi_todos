@@ -14,8 +14,10 @@ Install dependencies.
 Make sure **SQLite** is installed locally.
 
 ### `uvicorn main:app --reload`
-Runs the app.\
-Open [http://localhost:8000/docs](http://localhost:8000/docs) to view the Swagger the browser.
+Set up the DB.
+
+### `sqlite3 todos.db`
+Open the SQLite command line to start interacting with DB.
 
 # Key project skills:
 
