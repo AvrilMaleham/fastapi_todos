@@ -1,6 +1,9 @@
+#Ignore python env directory
 venv/
+#Ignore pycache directory
 __pycache__/
 *.pyc
 *.pyo
+#Ignore .db file
 *.db
 *.sqlite3
