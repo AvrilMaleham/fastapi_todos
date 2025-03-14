@@ -4,6 +4,6 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
-#Ignore .db fil
+#Ignore .db file
 *.db
 *.sqlite3
