@@ -11,13 +11,16 @@ Create a virtual environment (optional but recommended).
 ### `pip install -r requirements.txt`
 Install dependencies.
 
-### `uvicorn books2:app --reload`
+Make sure **SQLite** is installed locally.
+
+### `uvicorn main:app --reload`
 Runs the app.\
 Open [http://localhost:8000/docs](http://localhost:8000/docs) to view the Swagger the browser.
 
 # Key project skills:
 
-- SQL Database
+- SQLite
+- SQLAlchemy
 - Authentication
 - Authorization
 - Hashing Passwords
