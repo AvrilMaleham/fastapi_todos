@@ -25,6 +25,6 @@ Open the SQLite command line to start interacting with DB.
 
 - SQLite
 - SQLAlchemy
-- Authentication
+- Authentication with OAuth2 and JWT
 - Authorization
 - Hashing Passwords with Passlib
