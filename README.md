@@ -18,7 +18,7 @@ Sets up the DB **and** Runs the app.
 
 Open [http://localhost:8000/docs](http://localhost:8000/docs) to view the Swagger the browser.
 
-### `sqlite3 todos.db`
+### `sqlite3 todosapp.db`
 Open the SQLite command line to start interacting with DB.
 
 # Key project skills:
