@@ -28,3 +28,4 @@ Open the SQLite command line to start interacting with DB.
 - Authentication with OAuth2 and JWT
 - Authorization
 - Hashing Passwords with Passlib
+- Unit and integration testing with Pytest
