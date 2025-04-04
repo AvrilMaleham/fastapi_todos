@@ -38,3 +38,4 @@ Runs the tests.
 - Authorization
 - Hashing Passwords with Passlib
 - Unit and integration testing with Pytest
+- Jinja2 UI
