@@ -20,6 +20,7 @@ Make sure **SQLite** is installed locally.
 
 Sets up the DB **and** Runs the app.
 
+Open [http://localhost:8000](http://localhost:8000) to view the UI the browser.
 Open [http://localhost:8000/docs](http://localhost:8000/docs) to view the Swagger the browser.
 
 ### `sqlite3 todosapp.db`
